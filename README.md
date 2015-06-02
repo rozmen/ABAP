@@ -1,2 +1,2 @@
 # ABAP
-Abap diliyle geliştirmiş kod parçaları
+code snippets development upon abap language.
